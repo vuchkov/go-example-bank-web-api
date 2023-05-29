@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/msft/bank"
+	bank "github.com/vuchkov/go-example-bank-web-api"
 )
 
 var accounts = map[float64]*CustomAccount{}
