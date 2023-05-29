@@ -1,3 +1,3 @@
 # go-example-bank-web-api
 
-## Online bank project in Go with Web API
+## Online bank project (example) in Go with Web API
